@@ -8,7 +8,7 @@
 ==>JavaScript
 ==>HTML
 - 📫 How to reach me:
-* E-Mail:merth5577@gmail.com
+* E-Mail: merth5577@gmail.com
 or
 *Discord: Ryuu#0814
 <!---
