@@ -3,8 +3,6 @@
 Discord Server
 and Games
 - 🌱 I’m currently learning:
-Java,
-React Native,
 JavaScript,
 HTML
 - 📫 How to reach me:
