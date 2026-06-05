@@ -1,63 +1,25 @@
-### Hi there, I'm Mert Harmandarlı! 👋
+# Hi there, I'm Mert Harmandarlı 👋 / Merhaba, Ben Mert
 
-### 🇹🇷 Hakkımda (Turkish)
+### 🇬🇧 About Me
+I am a first-year Computer Programming student at Ege University, focusing on mobile and desktop software engineering. I develop applications primarily using React Native and C#, with a strong emphasis on clean code and modern architectures. I am actively refactoring and documenting my projects in English to align with global professional standards.
 
-Merhaba! Ben **Pamukkale Üniversitesi**'nde Bilgisayar Programcılığı okuyan 18 yaşında bir yazılım öğrencisiyim.
+When I'm not coding, I play the electric guitar (currently using an Ibanez RG390GX), and I enjoy tracking films (especially Christopher Nolan's works) and gaming (The Witcher 3, Rainbow Six Siege).
 
-C# ve .NET ekosistemi üzerine yoğunlaşıyor, özellikle masaüstü uygulamaları ve veritabanı mimarileri (Entity Framework, Dapper) ile ilgileniyorum. Gelecekteki hedefim **Mobil Uygulama ve Oyun Geliştirme** alanında uzmanlaşmak.
+### 🇹🇷 Hakkımda
+Ege Üniversitesi 1. sınıf Bilgisayar Programcılığı öğrencisiyim. Mobil ve masaüstü yazılım geliştirme alanlarına odaklanıyorum. Ağırlıklı olarak React Native ve C# kullanarak uygulamalar geliştiriyor, temiz kod ve modern mimarilere önem veriyorum. Projelerimi global standartlara uygun hale getirmek için İngilizce olarak refactor edip dokümante ediyorum.
 
-Kod yazmadığım zamanlarda beni **elektro gitarımla** 🎸 ilgilenirken veya müzik prodüksiyonu yaparken bulabilirsiniz.
-
----
-
-### 🚀 Şu An Ne Yapıyorum?
-
-* 🌱 **Murat Yücedağ**'ın kampı ile ileri seviye C# teknikleri ve mimari desenler öğreniyorum.
-* 💻 **Öğrenci Bilgi Sistemleri** ve **Ürün Yönetim Uygulamaları** gibi projeler geliştiriyorum.
-* 🎯 Hedefim: Ölçeklenebilir mobil uygulamalar ve sürükleyici oyunlar yapmak.
+Kodlama dışındaki zamanlarımda elektro gitar çalıyorum. Ayrıca sinema ve oyun dünyasını yakından takip ediyorum.
 
 ---
 
-### 🇬🇧 English
-
-I'm an 18-year-old **Computer Programming Student** at **Pamukkale University**, passionate about software development and clean code. 
-
-Currently, I'm diving deep into the **.NET ecosystem**, focusing on backend technologies and desktop applications, with a future goal of mastering **Mobile & Game Development**.
-
-When I'm not coding, you can find me playing my **electric guitar** 🎸, chasing the perfect heavy metal tones, or producing music.
+### 💻 Tech Stack & Tools / Teknolojiler & Araçlar
+* **Languages:** C#, JavaScript, TypeScript
+* **Mobile & Frontend:** React Native, Expo
+* **Backend & Databases:** MS SQL Server, MongoDB, Entity Framework, Dapper
+* **AI & Integrations:** Gemini API
 
 ---
 
-### 🛠️ Tech Stack & Tools
-
-* **Languages:** C#
-* **Frameworks:** .NET Framework, Windows Forms
-* **Data Access:** Entity Framework, Dapper, ADO.NET, LINQ
-* **Database:** MS SQL Server
-* **Tools:** Visual Studio, Git & GitHub
-
----
-
-### 🚀 What I'm Up To
-
-* 🌱 I’m currently learning **Advanced C# techniques** and **Architecture patterns** via Murat Yücedağ's Bootcamp.
-* 💻 Developing projects like **Student Information Systems** and **Product Management Apps**.
-* 🎯 My goal: To build scalable mobile apps and immersive games.
-
----
-
-### 🇹🇷 Hakkımda (Turkish)
-
-Merhaba! Ben **Pamukkale Üniversitesi**'nde Bilgisayar Programcılığı okuyan 18 yaşında bir yazılım öğrencisiyim.
-
-C# ve .NET ekosistemi üzerine yoğunlaşıyor, özellikle masaüstü uygulamaları ve veritabanı mimarileri (Entity Framework, Dapper) ile ilgileniyorum. Gelecekteki hedefim **Mobil Uygulama ve Oyun Geliştirme** alanında uzmanlaşmak.
-
-Kod yazmadığım zamanlarda beni **elektro gitarımla** 🎸 ilgilenirken veya müzik prodüksiyonu yaparken bulabilirsiniz.
-
----
-
-<p align="left">
-<a href="https://github.com/mertharmandarli?tab=repositories" target="_blank">
-  <img src="https://github-readme-stats.vercel.app/api?username=mertharmandarli&show_icons=true&theme=dark" alt="GitHub Stats" />
-</a>
-</p>
+### 📫 Let's Connect / İletişim
+* **LinkedIn:** [linkedin.com/in/your-profile-link](https://www.linkedin.com/in/mert-harmandarlı-2754b4395/)
+* **Email:** merth5577@gmail.com
