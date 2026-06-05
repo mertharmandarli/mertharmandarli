@@ -21,5 +21,5 @@ Kodlama dışındaki zamanlarımda elektro gitar çalıyorum. Ayrıca sinema ve 
 ---
 
 ### 📫 Let's Connect / İletişim
-* **LinkedIn:** [linkedin.com/in/your-profile-link](https://www.linkedin.com/in/mert-harmandarlı-2754b4395/)
+* **LinkedIn:** [linkedin.com/in/mert-harmandarli](https://www.linkedin.com/in/mert-harmandarlı-2754b4395/)
 * **Email:** merth5577@gmail.com
